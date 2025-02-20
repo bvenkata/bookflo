@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bvenkata/bookflo.git/static/css/main.75779142.css",
+    "main.js": "/bvenkata/bookflo.git/static/js/main.62df1416.js",
+    "static/js/453.ed3810f9.chunk.js": "/bvenkata/bookflo.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/bvenkata/bookflo.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bvenkata/bookflo.git/index.html",
+    "main.75779142.css.map": "/bvenkata/bookflo.git/static/css/main.75779142.css.map",
+    "main.62df1416.js.map": "/bvenkata/bookflo.git/static/js/main.62df1416.js.map",
+    "453.ed3810f9.chunk.js.map": "/bvenkata/bookflo.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75779142.css",
+    "static/js/main.62df1416.js"
+  ]
+}
