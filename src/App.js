@@ -10,7 +10,7 @@ function App() {
       </header>
       <main className="homepage-main">
         <div className="info-card">
-          <h2>Manage Your Books & Appointments</h2>
+          <h2>Manage Your Bookings & Appointments</h2>
           <p>Effortlessly track and organize your books while scheduling appointments with ease.</p>
         </div>
         <div className="info-card">
